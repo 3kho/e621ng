@@ -20,7 +20,7 @@
     "style-loader": "^3.3.0",
     "vue": "^3.1.0",
     "vue-loader": "^17.4.2",
-    "webpack": "^5.51.1",
+    "webpack": "^5.104.1",
     "zingtouch": "^1.0.6",
     "zxcvbn": "^4.4.2"
   },
